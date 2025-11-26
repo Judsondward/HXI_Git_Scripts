@@ -1,4 +1,4 @@
-cd ~/Game/SquareEnix/FINAL\ FANTASY\ XI/USER
+cd ~/Desktop/Game/SquareEnix/FINAL\ FANTASY\ XI/USER
 git pull
-cd ~/Game/config/addons/luashitacast
+cd ~/Desktop/Game/config/addons/luashitacast
 git pull
